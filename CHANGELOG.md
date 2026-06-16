@@ -35,6 +35,10 @@ Full Changelog: [v7.5.0...v7.6.0](https://github.com/cloudflare/cloudflare-go/co
 
 ## 7.5.0 (2026-06-10)
 
+Full Changelog: [v7.5.0...v7.5.0](https://github.com/cloudflare/cloudflare-go/compare/v7.5.0...v7.5.0)
+
+## 7.5.0 (2026-06-10)
+
 Full Changelog: [v7.4.0...v7.5.0](https://github.com/cloudflare/cloudflare-go/compare/v7.4.0...v7.5.0)
 
 ### Features
